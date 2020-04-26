@@ -1,9 +1,8 @@
 # Clase-Artist
-Program care foloseste POO si containere STl in limbajul C++
+Program care folosește POO și containere STl în limbajul C++
 
-In acest program au fost create doua clase artist, derivate din clasa parinte persoana, care au mai multe clase de tip album, aceasta din urma are mai multe clase de tip track cu atributele aferente
-Scopul programului este de a manipula atributele claselor respective pentru afisarea lor, afisarea inntr-un fisier extern in ordine cronologica, gasirea albumelor intre 2 ani dat de la tastatura, afisarea albumelor pentru un artist, gasirea albumului celui mai lung. Toate datele au fost introduse in interiorul programului.
+În acest program au fost create două clase artist, derivate din clasa părinte persoană, care au mai multe clase de tip album, aceasta din urmă are mai multe clase de tip track cu atributele aferente
+Scopul programului este de a manipula atributele claselor respective pentru afișarea lor, afișarea într-un fișier extern în ordine cronologică, găsirea albumelor între 2 ani dați de la tastatură, afișarea albumelor pentru un artist, găsirea albumului celui mai lung, introducerea elementelor in containere de tip vector, map, multimap și priority queue. Toate datele au fost introduse în interiorul programului.
 
-Realizarea programului a fost facuta in Dev-C++, accesarea intregului proiect se poate face prin deschiderea fisierului Clase Artist.dev
-odata ce acesta a fost descarcat. Au fost incarcate si iesirile .o ale programului
-
+Realizarea programului a fost făcută în Dev-C++, accesarea întregului proiect se poate face prin deschiderea fișierului Clase Artist.dev
+odată ce acesta a fost descărcat. Au fost încărcate și ieșirile .o ale programului
